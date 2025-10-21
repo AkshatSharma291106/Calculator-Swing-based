@@ -7,7 +7,7 @@ A Java-based calculator application with multiple themes and a separate Pomodoro
 This repository contains two main applications:
 
 ### 1. Calculator Application
-**Location**: `com.houarizegai.calculator`
+
 
 A feature-rich calculator with both standard and scientific modes, supporting multiple visual themes.
 
@@ -128,3 +128,4 @@ This project is for educational purposes. Feel free to use and modify as needed.
 ## 👨‍💻 Author
 
 Developed as a learning project for Java Swing applications and GUI development.
+
